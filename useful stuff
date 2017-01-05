@@ -1,0 +1,11 @@
+http://stackoverflow.com/questions/14853779/adding-input-elements-dynamically-to-form
+
+document.getElementById("input")
+
+document.getElementById('txt_name').value 
+
+http://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_onclick
+
+http://stackoverflow.com/questions/841722/append-text-to-input-field
+
+http://stackoverflow.com/questions/155188/trigger-a-button-click-with-javascript-on-the-enter-key-in-a-text-box
